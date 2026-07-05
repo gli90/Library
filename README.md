@@ -2,9 +2,9 @@
 
 article / paper / research memo
 
-01_Probability/
+- Probability/
 
-02_Bayesian/
+- Bayesian/
 
 03_SDT/
 
