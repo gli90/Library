@@ -2,26 +2,26 @@
 
 article / paper / research memo
 
-- Probability/
+- Probability
 
-- Bayesian/
+- Bayesian
 
-03_SDT/
+- SDT
 
-04_Metacognition/
+- Metacognition
 
-05_Color_Perception/
+- Color_Perception
 
-06_Attention/
+- Attention
 
-07_Computational_Modeling/
+- Computational_Modeling
 
-08_Reinforcement_Learning/
+- Reinforcement_Learning
 
-09_Methods/
+- Methods
 
-10_Classic_Papers/
+- Classic_Papers
 
-11_Review/
+- Review
 
-12_Datasets/
+- Datasets
